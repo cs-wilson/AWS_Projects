@@ -1,0 +1,16 @@
+{
+  "name": "lambda_dependence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1430.0",
+    "nanoid": "^4.0.2",
+    "uuid": "^9.0.0"
+  }
+}
